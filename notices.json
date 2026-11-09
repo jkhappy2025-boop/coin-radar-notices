@@ -7,51 +7,51 @@
       "translations": {
         "ko": {
           "title": "마이레이더·관찰종목과 차트 안내",
-          "body": "마이레이더에서 원하는 조건을 조합해 코인을 살펴볼 수 있습니다. 관심 있는 코인은 관찰종목에 담아 추적할 수 있습니다. 코인 상세 화면의 일봉 차트도 준비하고 있습니다. 차트는 현재 시험 중이며 공개 일정은 추후 안내하겠습니다."
+          "body": "마이레이더에서 원하는 조건을 조합해 코인을 살펴보고 관찰종목에 담아 추적할 수 있습니다. 이번 업데이트를 설치하면 코인 상세 화면에서 최근 30일 일봉 차트와 20일·60일 이동평균선을 볼 수 있습니다. 업데이트는 Google Play 심사와 공개 이후 이용할 수 있습니다."
         },
         "en": {
           "title": "My Radar, observation list and chart update",
-          "body": "Use My Radar to explore coins with your chosen conditions. Add coins to your observation list to follow their changes. A daily chart for coin details is also in testing; its release date will be announced later."
+          "body": "Explore coins with your chosen My Radar conditions and follow them in your observation list. After installing this update, view a 30-day daily candlestick chart and 20-day and 60-day moving averages in coin details. The update will be available after Google Play review and release."
         },
         "ja": {
           "title": "Myレーダー・観察銘柄・チャートのお知らせ",
-          "body": "Myレーダーでは、選んだ条件を組み合わせて銘柄を探せます。気になる銘柄は観察銘柄に追加して変化を確認できます。銘柄詳細の日足チャートもテスト中です。公開時期は後日お知らせします。"
+          "body": "Myレーダーで条件を組み合わせて銘柄を探し、観察銘柄に追加して変化を確認できます。今回の更新をインストールすると、銘柄詳細で直近30日の日足チャートと20日・60日移動平均線を確認できます。更新はGoogle Playの審査・公開後に利用できます。"
         },
         "zh": {
           "title": "我的雷达、观察列表及图表公告",
-          "body": "您可以在我的雷达中组合条件来查找币种，也可以将关注的币种加入观察列表，跟踪其变化。币种详情的日线图正在测试中，发布时间将另行通知。"
+          "body": "您可以通过我的雷达按条件查找币种，并加入观察列表跟踪变化。安装此次更新后，可在币种详情查看最近30天的日K线图及20日、60日移动平均线。更新将在 Google Play 审核并发布后提供。"
         },
         "zh-Hant": {
           "title": "我的雷達、觀察清單與圖表公告",
-          "body": "您可以在我的雷達中組合條件來搜尋幣種，也可以將關注的幣種加入觀察清單，追蹤其變化。幣種詳細資料的日線圖正在測試中，發布時間將另行通知。"
+          "body": "您可以透過我的雷達按條件搜尋幣種，並加入觀察清單追蹤變化。安裝此次更新後，可在幣種詳細資料查看最近30天的日K線圖及20日、60日移動平均線。更新將在 Google Play 審核並發布後提供。"
         },
         "es": {
           "title": "Novedades de My Radar, seguimiento y gráficos",
-          "body": "Con My Radar puedes explorar monedas usando las condiciones que elijas. Añade las que te interesen a la lista de seguimiento para observar sus cambios. El gráfico diario en la ficha de cada moneda está en pruebas; anunciaremos su disponibilidad más adelante."
+          "body": "Explora monedas con las condiciones de My Radar y sigue sus cambios en tu lista de seguimiento. Tras instalar esta actualización, podrás ver en los detalles un gráfico de velas diarias de 30 días y medias móviles de 20 y 60 días. La actualización estará disponible tras su revisión y publicación en Google Play."
         },
         "pt": {
           "title": "Novidades do My Radar, acompanhamento e gráfico",
-          "body": "No My Radar, você pode explorar moedas combinando os critérios escolhidos. Adicione moedas à lista de observação para acompanhar suas mudanças. O gráfico diário na tela de detalhes está em teste; a data de lançamento será informada posteriormente."
+          "body": "Explore moedas com os critérios do My Radar e acompanhe suas mudanças na lista de observação. Após instalar esta atualização, você poderá ver nos detalhes um gráfico de velas diárias dos últimos 30 dias e médias móveis de 20 e 60 dias. A atualização estará disponível após análise e publicação no Google Play."
         },
         "id": {
           "title": "Info My Radar, daftar pantauan, dan grafik",
-          "body": "Gunakan My Radar untuk mencari koin dengan gabungan kriteria pilihan Anda. Tambahkan koin ke daftar pantauan untuk mengikuti perubahannya. Grafik harian pada detail koin juga sedang diuji; jadwal rilis akan diumumkan kemudian."
+          "body": "Cari koin dengan kriteria My Radar dan ikuti perubahannya di daftar pantauan. Setelah memasang pembaruan ini, Anda dapat melihat grafik candlestick harian 30 hari terakhir dan rata-rata bergerak 20 dan 60 hari di detail koin. Pembaruan tersedia setelah ditinjau dan dirilis di Google Play."
         },
         "vi": {
           "title": "Thông báo về My Radar, danh sách theo dõi và biểu đồ",
-          "body": "Dùng My Radar để tìm coin theo các điều kiện bạn chọn. Thêm coin vào danh sách theo dõi để quan sát thay đổi. Biểu đồ nến ngày trong phần chi tiết đang được thử nghiệm; thời gian phát hành sẽ được thông báo sau."
+          "body": "Tìm coin theo điều kiện My Radar và theo dõi thay đổi trong danh sách quan sát. Sau khi cài đặt bản cập nhật này, bạn có thể xem biểu đồ nến ngày của 30 ngày gần nhất cùng đường trung bình động 20 và 60 ngày trong chi tiết coin. Bản cập nhật sẽ có sau khi Google Play xét duyệt và phát hành."
         },
         "th": {
           "title": "แจ้งข่าว My Radar รายการติดตาม และกราฟ",
-          "body": "ใช้ My Radar เพื่อค้นหาเหรียญตามเงื่อนไขที่คุณเลือก และเพิ่มเหรียญลงในรายการติดตามเพื่อดูความเปลี่ยนแปลง กราฟรายวันในหน้ารายละเอียดกำลังอยู่ระหว่างการทดสอบ โดยจะแจ้งกำหนดเปิดให้ใช้งานภายหลัง"
+          "body": "ค้นหาเหรียญตามเงื่อนไขใน My Radar และเพิ่มลงในรายการติดตามเพื่อดูความเปลี่ยนแปลง หลังติดตั้งอัปเดตนี้ คุณสามารถดูกราฟแท่งเทียนรายวันย้อนหลัง 30 วัน พร้อมเส้นค่าเฉลี่ยเคลื่อนที่ 20 และ 60 วันในหน้ารายละเอียดเหรียญ อัปเดตจะพร้อมใช้หลังผ่านการตรวจสอบและเผยแพร่บน Google Play"
         },
         "tr": {
           "title": "My Radar, takip listesi ve grafik hakkında",
-          "body": "My Radar ile seçtiğiniz koşulları birleştirerek coinleri inceleyebilirsiniz. İlgilendiğiniz coinleri takip listesine ekleyerek değişimlerini izleyebilirsiniz. Coin ayrıntılarındaki günlük grafik test ediliyor; yayın tarihi daha sonra duyurulacak."
+          "body": "My Radar koşullarıyla coinleri inceleyin ve gözlem listenizde değişimlerini takip edin. Bu güncellemeyi yükledikten sonra coin ayrıntılarında son 30 günün günlük mum grafiğini ve 20 ile 60 günlük hareketli ortalamaları görebilirsiniz. Güncelleme Google Play incelemesi ve yayını sonrasında kullanılabilir."
         },
         "fr": {
           "title": "My Radar, liste de suivi et graphique",
-          "body": "Avec My Radar, explorez les cryptomonnaies selon les critères de votre choix. Ajoutez celles qui vous intéressent à votre liste de suivi pour observer leurs évolutions. Le graphique journalier dans les détails est en cours de test ; sa date de mise à disposition sera annoncée ultérieurement."
+          "body": "Explorez les cryptomonnaies selon vos critères My Radar et suivez leur évolution dans votre liste de suivi. Après installation de cette mise à jour, vous pourrez consulter dans les détails un graphique en chandeliers quotidiens sur 30 jours avec les moyennes mobiles à 20 et 60 jours. La mise à jour sera disponible après examen et publication sur Google Play."
         }
       }
     }
