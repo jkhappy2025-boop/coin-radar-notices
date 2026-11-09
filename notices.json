@@ -2,6 +2,60 @@
   "schema_version": 1,
   "notices": [
     {
+      "id": "2026-11-09-watchlist-fix-3628",
+      "published_at": "2026-11-09T22:08:33+09:00",
+      "translations": {
+        "ko": {
+          "title": "관심종목 표시 오류 수정 안내",
+          "body": "안녕하세요. 코인레이더입니다.\n\n일부 관심종목에서 코인의 추세 정보가 ‘자료 부족’으로 잘못 표시되는 문제를 확인해 수정했습니다.\n\n수정된 3.6.28 버전은 현재 Google Play 심사 절차를 진행 중입니다. 업데이트가 공개되면 Play 스토어에서 앱을 최신 버전으로 업데이트해 주세요.\n\n이용에 불편을 드려 죄송합니다. 앞으로도 더 편리하고 안정적으로 이용하실 수 있도록 개선하겠습니다."
+        },
+        "en": {
+          "title": "Watchlist display issue fix",
+          "body": "Hello from Coin Radar.\n\nWe fixed an issue that could incorrectly show “insufficient data” for trends in some watchlist coins.\n\nVersion 3.6.28 is going through the Google Play review process. Once released, please update the app from the Play Store.\n\nWe apologize for the inconvenience and will continue improving the app."
+        },
+        "ja": {
+          "title": "ウォッチリストの表示不具合修正のお知らせ",
+          "body": "Coin Radarをご利用いただきありがとうございます。\n\n一部のウォッチリスト銘柄で、トレンド情報が誤って「データ不足」と表示される問題を修正しました。\n\nバージョン3.6.28は現在Google Playの審査手続き中です。公開後、Playストアからアプリを更新してください。\n\nご不便をおかけして申し訳ありません。今後も改善に努めます。"
+        },
+        "zh": {
+          "title": "自选列表显示问题修复公告",
+          "body": "您好，这里是 Coin Radar。\n\n我们修复了部分自选币种的趋势信息被错误显示为“数据不足”的问题。\n\n3.6.28 版本目前正在进行 Google Play 审核流程。更新发布后，请通过 Play 商店更新应用。\n\n对于造成的不便，我们深表歉意，并将继续改进应用。"
+        },
+        "zh-Hant": {
+          "title": "自選清單顯示問題修正公告",
+          "body": "您好，這裡是 Coin Radar。\n\n我們修正了部分自選幣種的趨勢資訊被錯誤顯示為「資料不足」的問題。\n\n3.6.28 版本目前正在進行 Google Play 審查程序。更新發布後，請透過 Play 商店更新應用程式。\n\n對於造成的不便，我們深感抱歉，並會持續改善應用程式。"
+        },
+        "es": {
+          "title": "Corrección de visualización en la lista de seguimiento",
+          "body": "Hola, somos Coin Radar.\n\nHemos corregido un problema que podía mostrar incorrectamente «datos insuficientes» en las tendencias de algunas monedas de la lista de seguimiento.\n\nLa versión 3.6.28 está en proceso de revisión en Google Play. Cuando se publique, actualiza la aplicación desde Play Store.\n\nSentimos las molestias y seguiremos mejorando la aplicación."
+        },
+        "pt": {
+          "title": "Correção de exibição na lista de acompanhamento",
+          "body": "Olá! Aqui é o Coin Radar.\n\nCorrigimos um problema que podia exibir incorretamente “dados insuficientes” nas tendências de algumas moedas da lista de acompanhamento.\n\nA versão 3.6.28 está em processo de análise no Google Play. Quando for lançada, atualize o aplicativo pela Play Store.\n\nPedimos desculpas pelo transtorno e continuaremos melhorando o aplicativo."
+        },
+        "id": {
+          "title": "Perbaikan tampilan daftar pantauan",
+          "body": "Halo dari Coin Radar.\n\nKami telah memperbaiki masalah yang dapat menampilkan “data tidak cukup” secara keliru pada tren beberapa koin di daftar pantauan.\n\nVersi 3.6.28 sedang dalam proses peninjauan Google Play. Setelah tersedia, perbarui aplikasi melalui Play Store.\n\nKami mohon maaf atas ketidaknyamanan ini dan akan terus meningkatkan aplikasi."
+        },
+        "vi": {
+          "title": "Thông báo sửa lỗi hiển thị danh sách theo dõi",
+          "body": "Xin chào, đây là Coin Radar.\n\nChúng tôi đã sửa lỗi khiến xu hướng của một số coin trong danh sách theo dõi bị hiển thị nhầm là “thiếu dữ liệu”.\n\nPhiên bản 3.6.28 đang trong quá trình xét duyệt của Google Play. Khi được phát hành, vui lòng cập nhật ứng dụng từ Play Store.\n\nChúng tôi xin lỗi vì sự bất tiện và sẽ tiếp tục cải thiện ứng dụng."
+        },
+        "th": {
+          "title": "แจ้งแก้ไขการแสดงผลในรายการติดตาม",
+          "body": "สวัสดีจาก Coin Radar\n\nเราได้แก้ไขปัญหาที่ข้อมูลแนวโน้มของเหรียญบางรายการในรายการติดตามแสดงว่า “ข้อมูลไม่เพียงพอ” อย่างไม่ถูกต้อง\n\nเวอร์ชัน 3.6.28 อยู่ระหว่างกระบวนการตรวจสอบของ Google Play เมื่อเผยแพร่แล้ว โปรดอัปเดตแอปผ่าน Play Store\n\nขออภัยในความไม่สะดวก และเราจะพัฒนาแอปต่อไป"
+        },
+        "tr": {
+          "title": "Takip listesi görüntüleme hatası düzeltmesi",
+          "body": "Merhaba, biz Coin Radar.\n\nTakip listesindeki bazı coinlerin trend bilgilerinin yanlışlıkla “yetersiz veri” olarak gösterilmesine neden olan sorunu düzelttik.\n\n3.6.28 sürümü Google Play inceleme sürecindedir. Güncelleme yayınlandığında uygulamayı Play Store üzerinden güncelleyin.\n\nVerdiğimiz rahatsızlık için özür diler, uygulamayı geliştirmeye devam edeceğimizi belirtiriz."
+        },
+        "fr": {
+          "title": "Correction de l’affichage dans la liste de suivi",
+          "body": "Bonjour, ici Coin Radar.\n\nNous avons corrigé un problème qui pouvait afficher à tort « données insuffisantes » pour la tendance de certaines cryptomonnaies dans la liste de suivi.\n\nLa version 3.6.28 suit actuellement le processus d’examen de Google Play. Une fois publiée, mettez l’application à jour depuis le Play Store.\n\nNous vous prions de nous excuser pour la gêne occasionnée et continuerons d’améliorer l’application."
+        }
+      }
+    },
+    {
       "id": "2026-11-09-radar-observation-chart",
       "published_at": "2026-11-09T00:00:00+09:00",
       "translations": {
