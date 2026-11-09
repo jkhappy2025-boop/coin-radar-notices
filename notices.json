@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "notices": [
+    {
+      "id": "2026-11-09-radar-observation-chart",
+      "published_at": "2026-11-09T00:00:00+09:00",
+      "translations": {
+        "ko": {
+          "title": "마이레이더·관찰종목과 차트 안내",
+          "body": "마이레이더에서 원하는 조건을 조합해 코인을 살펴볼 수 있습니다. 관심 있는 코인은 관찰종목에 담아 추적할 수 있습니다. 코인 상세 화면의 일봉 차트도 준비하고 있습니다. 차트는 현재 시험 중이며 공개 일정은 추후 안내하겠습니다."
+        },
+        "en": {
+          "title": "My Radar, observation list and chart update",
+          "body": "Use My Radar to explore coins with your chosen conditions. Add coins to your observation list to follow their changes. A daily chart for coin details is also in testing; its release date will be announced later."
+        },
+        "ja": {
+          "title": "Myレーダー・観察銘柄・チャートのお知らせ",
+          "body": "Myレーダーでは、選んだ条件を組み合わせて銘柄を探せます。気になる銘柄は観察銘柄に追加して変化を確認できます。銘柄詳細の日足チャートもテスト中です。公開時期は後日お知らせします。"
+        },
+        "zh": {
+          "title": "我的雷达、观察列表及图表公告",
+          "body": "您可以在我的雷达中组合条件来查找币种，也可以将关注的币种加入观察列表，跟踪其变化。币种详情的日线图正在测试中，发布时间将另行通知。"
+        },
+        "zh-Hant": {
+          "title": "我的雷達、觀察清單與圖表公告",
+          "body": "您可以在我的雷達中組合條件來搜尋幣種，也可以將關注的幣種加入觀察清單，追蹤其變化。幣種詳細資料的日線圖正在測試中，發布時間將另行通知。"
+        },
+        "es": {
+          "title": "Novedades de My Radar, seguimiento y gráficos",
+          "body": "Con My Radar puedes explorar monedas usando las condiciones que elijas. Añade las que te interesen a la lista de seguimiento para observar sus cambios. El gráfico diario en la ficha de cada moneda está en pruebas; anunciaremos su disponibilidad más adelante."
+        },
+        "pt": {
+          "title": "Novidades do My Radar, acompanhamento e gráfico",
+          "body": "No My Radar, você pode explorar moedas combinando os critérios escolhidos. Adicione moedas à lista de observação para acompanhar suas mudanças. O gráfico diário na tela de detalhes está em teste; a data de lançamento será informada posteriormente."
+        },
+        "id": {
+          "title": "Info My Radar, daftar pantauan, dan grafik",
+          "body": "Gunakan My Radar untuk mencari koin dengan gabungan kriteria pilihan Anda. Tambahkan koin ke daftar pantauan untuk mengikuti perubahannya. Grafik harian pada detail koin juga sedang diuji; jadwal rilis akan diumumkan kemudian."
+        },
+        "vi": {
+          "title": "Thông báo về My Radar, danh sách theo dõi và biểu đồ",
+          "body": "Dùng My Radar để tìm coin theo các điều kiện bạn chọn. Thêm coin vào danh sách theo dõi để quan sát thay đổi. Biểu đồ nến ngày trong phần chi tiết đang được thử nghiệm; thời gian phát hành sẽ được thông báo sau."
+        },
+        "th": {
+          "title": "แจ้งข่าว My Radar รายการติดตาม และกราฟ",
+          "body": "ใช้ My Radar เพื่อค้นหาเหรียญตามเงื่อนไขที่คุณเลือก และเพิ่มเหรียญลงในรายการติดตามเพื่อดูความเปลี่ยนแปลง กราฟรายวันในหน้ารายละเอียดกำลังอยู่ระหว่างการทดสอบ โดยจะแจ้งกำหนดเปิดให้ใช้งานภายหลัง"
+        },
+        "tr": {
+          "title": "My Radar, takip listesi ve grafik hakkında",
+          "body": "My Radar ile seçtiğiniz koşulları birleştirerek coinleri inceleyebilirsiniz. İlgilendiğiniz coinleri takip listesine ekleyerek değişimlerini izleyebilirsiniz. Coin ayrıntılarındaki günlük grafik test ediliyor; yayın tarihi daha sonra duyurulacak."
+        },
+        "fr": {
+          "title": "My Radar, liste de suivi et graphique",
+          "body": "Avec My Radar, explorez les cryptomonnaies selon les critères de votre choix. Ajoutez celles qui vous intéressent à votre liste de suivi pour observer leurs évolutions. Le graphique journalier dans les détails est en cours de test ; sa date de mise à disposition sera annoncée ultérieurement."
+        }
+      }
+    }
+  ]
+}
