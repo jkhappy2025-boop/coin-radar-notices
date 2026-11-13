@@ -1,6 +1,60 @@
 {
   "schema_version": 1,
   "notices": [
+{
+  "id": "2026-11-13-my-radar-chart-3629",
+  "published_at": "2026-11-13T14:00:58.982Z",
+  "translations": {
+    "ko": {
+      "title": "[업데이트 예정] 마이레이더와 차트 기능 개선",
+      "body": "다음 업데이트는 Google Play 심사 중입니다. 공개 후 업데이트해 주세요.\n\n• 마이레이더에 일목균형표 전환선과 기준선 조건 추가\n• 5일·20일·60일 이동평균선의 가격 위치, 방향, 교차 조건 추가\n• 검색 조건 3개를 이름을 붙여 저장하고 불러오기\n• 상세 차트에 5일 이동평균선 추가\n• 친구에게 앱 공유\n• 모멘텀 거래량 증가 설명 개선: 가격 하락 중에도 거래량이 늘 수 있으며, 특정 움직임이나 수익을 보장하지 않습니다.\n\n의견이 있으시면 남겨 주세요. 감사합니다."
+    },
+    "en": {
+      "title": "[Coming soon] My Radar and chart improvements",
+      "body": "The next update is under Google Play review. Update after release.\n\n• Ichimoku conversion and base-line filters in My Radar\n• Price position, direction and crossover filters for 5-, 20- and 60-day moving averages\n• Name, save and reload up to three search configurations\n• A 5-day moving average on the detail chart\n• Share the app with friends\n• Clearer Momentum volume explanation: volume can rise as price falls; it does not guarantee a particular movement or profit.\n\nWe welcome your feedback!"
+    },
+    "ja": {
+      "title": "【更新予定】Myレーダーとチャートの改善",
+      "body": "次の更新はGoogle Playで審査中です。公開後に更新してください。\n\n・一目均衡表の転換線・基準線条件を追加\n・5日・20日・60日移動平均線の価格位置、方向、クロス条件\n・検索条件3件に名前を付けて保存・再利用\n・詳細チャートに5日移動平均線を追加\n・友達にアプリを共有\n・モメンタムの出来高説明を改善。価格下落中も出来高は増加し、値動きや利益を保証しません。\n\nご意見をお待ちしています。"
+    },
+    "zh": {
+      "title": "【即将更新】我的雷达与图表改进",
+      "body": "下一版本正在接受 Google Play 审核，发布后请更新。\n\n• 新增一目均衡表转换线与基准线条件\n• 5日、20日及60日均线的价格位置、方向和交叉条件\n• 可命名、保存并重用3组搜索条件\n• 详情图表增加5日均线\n• 与朋友分享应用\n• 改进动量成交量说明：价格下跌时成交量也可能增加，不保证特定走势或收益。\n\n欢迎提出意见！"
+    },
+    "zh-Hant": {
+      "title": "【即將更新】我的雷達與圖表改進",
+      "body": "下一版本正在接受 Google Play 審核，發布後請更新。\n\n• 新增一目均衡表轉換線與基準線條件\n• 5日、20日及60日均線的價格位置、方向和交叉條件\n• 可命名、儲存並重用3組搜尋條件\n• 詳細圖表增加5日均線\n• 與朋友分享應用程式\n• 改善動能成交量說明：價格下跌時成交量也可能增加，不保證特定走勢或收益。\n\n歡迎提供意見！"
+    },
+    "es": {
+      "title": "[Próximamente] Mejoras en My Radar y los gráficos",
+      "body": "La actualización está en revisión en Google Play. Actualiza cuando se publique.\n\n• Filtros de las líneas de conversión y base de Ichimoku\n• Posición del precio, dirección y cruces de medias de 5, 20 y 60 días\n• Nombra, guarda y recupera hasta tres búsquedas\n• Media de 5 días en el gráfico de detalles\n• Comparte la app con amigos\n• Explicación del volumen Momentum: puede aumentar mientras baja el precio y no garantiza movimientos ni ganancias.\n\n¡Esperamos tus comentarios!"
+    },
+    "pt": {
+      "title": "[Em breve] Melhorias no My Radar e no gráfico",
+      "body": "A atualização está em análise no Google Play. Atualize quando for publicada.\n\n• Filtros das linhas de conversão e base do Ichimoku\n• Posição do preço, direção e cruzamentos das médias de 5, 20 e 60 dias\n• Nomeie, salve e recupere até três buscas\n• Média de 5 dias no gráfico de detalhes\n• Compartilhe o aplicativo com amigos\n• Explicação do volume Momentum: ele pode aumentar quando o preço cai e não garante movimentos ou ganhos.\n\nEnvie sua opinião!"
+    },
+    "id": {
+      "title": "[Segera hadir] Peningkatan My Radar dan grafik",
+      "body": "Pembaruan sedang ditinjau Google Play. Perbarui setelah dirilis.\n\n• Filter garis konversi dan garis dasar Ichimoku\n• Posisi harga, arah, dan perpotongan rata-rata bergerak 5, 20, dan 60 hari\n• Beri nama, simpan, dan gunakan kembali hingga tiga pencarian\n• Rata-rata 5 hari pada grafik detail\n• Bagikan aplikasi kepada teman\n• Penjelasan volume Momentum: volume dapat naik saat harga turun dan tidak menjamin pergerakan atau keuntungan.\n\nKami menantikan masukan Anda!"
+    },
+    "vi": {
+      "title": "[Sắp cập nhật] Cải tiến My Radar và biểu đồ",
+      "body": "Bản cập nhật đang được Google Play xét duyệt. Vui lòng cập nhật sau khi phát hành.\n\n• Thêm điều kiện đường chuyển đổi và đường cơ sở Ichimoku\n• Vị trí giá, hướng và giao cắt của đường trung bình 5, 20 và 60 ngày\n• Đặt tên, lưu và dùng lại tối đa ba bộ tìm kiếm\n• Thêm đường trung bình 5 ngày vào biểu đồ chi tiết\n• Chia sẻ ứng dụng với bạn bè\n• Giải thích khối lượng Momentum: khối lượng có thể tăng khi giá giảm và không đảm bảo xu hướng hay lợi nhuận.\n\nChúng tôi mong nhận được góp ý!"
+    },
+    "th": {
+      "title": "[อัปเดตเร็ว ๆ นี้] ปรับปรุง My Radar และกราฟ",
+      "body": "อัปเดตอยู่ระหว่างการตรวจสอบของ Google Play โปรดอัปเดตเมื่อเผยแพร่แล้ว\n\n• เพิ่มเงื่อนไขเส้น Conversion และ Base ของ Ichimoku\n• เลือกตำแหน่งราคา ทิศทาง และการตัดกันของเส้นเฉลี่ย 5, 20 และ 60 วัน\n• ตั้งชื่อ บันทึก และเรียกคืนเงื่อนไขค้นหาได้ 3 ชุด\n• เพิ่มเส้นเฉลี่ย 5 วันในกราฟรายละเอียด\n• แชร์แอปให้เพื่อน\n• คำอธิบายปริมาณ Momentum: ปริมาณอาจเพิ่มขณะราคาลด และไม่รับประกันทิศทางหรือกำไร\n\nยินดีรับความคิดเห็นของคุณ"
+    },
+    "tr": {
+      "title": "[Yakında] My Radar ve grafik iyileştirmeleri",
+      "body": "Güncelleme Google Play incelemesindedir. Yayınlandığında uygulamayı güncelleyin.\n\n• Ichimoku dönüşüm ve temel çizgi koşulları\n• 5, 20 ve 60 günlük ortalamalarda fiyat konumu, yön ve kesişim\n• Üç arama koşulunu adlandırma, kaydetme ve yükleme\n• Ayrıntı grafiğine 5 günlük ortalama\n• Uygulamayı arkadaşlarla paylaşma\n• Momentum hacim açıklaması: fiyat düşerken hacim artabilir; bu, hareket veya kazanç garantisi değildir.\n\nGörüşlerinizi bekliyoruz!"
+    },
+    "fr": {
+      "title": "[À venir] Améliorations de My Radar et du graphique",
+      "body": "La mise à jour est en cours d’examen sur Google Play. Mettez l’application à jour après sa publication.\n\n• Conditions des lignes de conversion et de base Ichimoku\n• Position du prix, direction et croisements des moyennes à 5, 20 et 60 jours\n• Nommez, enregistrez et retrouvez trois recherches\n• Moyenne à 5 jours dans le graphique détaillé\n• Partagez l’application avec vos amis\n• Volume Momentum : il peut augmenter lorsque le prix baisse et ne garantit ni mouvement ni profit.\n\nVos avis sont les bienvenus !"
+    }
+  }
+},
     {
       "id": "2026-11-09-watchlist-fix-3628",
       "published_at": "2026-11-09T22:08:33+09:00",
